@@ -136,7 +136,6 @@ namespace MarkovCompression
           dictionary.Add(currentChar, index++);  
         }
       }
-
       return dictionary;
     }
     
