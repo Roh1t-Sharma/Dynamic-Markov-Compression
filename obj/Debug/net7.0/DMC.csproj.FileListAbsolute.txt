@@ -1,0 +1,15 @@
+/Users/rohitsharma/RiderProjects/DMC/DMC/bin/Debug/net7.0/DMC
+/Users/rohitsharma/RiderProjects/DMC/DMC/bin/Debug/net7.0/DMC.deps.json
+/Users/rohitsharma/RiderProjects/DMC/DMC/bin/Debug/net7.0/DMC.runtimeconfig.json
+/Users/rohitsharma/RiderProjects/DMC/DMC/bin/Debug/net7.0/DMC.dll
+/Users/rohitsharma/RiderProjects/DMC/DMC/bin/Debug/net7.0/DMC.pdb
+/Users/rohitsharma/RiderProjects/DMC/DMC/obj/Debug/net7.0/DMC.csproj.AssemblyReference.cache
+/Users/rohitsharma/RiderProjects/DMC/DMC/obj/Debug/net7.0/DMC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohitsharma/RiderProjects/DMC/DMC/obj/Debug/net7.0/DMC.AssemblyInfoInputs.cache
+/Users/rohitsharma/RiderProjects/DMC/DMC/obj/Debug/net7.0/DMC.AssemblyInfo.cs
+/Users/rohitsharma/RiderProjects/DMC/DMC/obj/Debug/net7.0/DMC.csproj.CoreCompileInputs.cache
+/Users/rohitsharma/RiderProjects/DMC/DMC/obj/Debug/net7.0/DMC.dll
+/Users/rohitsharma/RiderProjects/DMC/DMC/obj/Debug/net7.0/refint/DMC.dll
+/Users/rohitsharma/RiderProjects/DMC/DMC/obj/Debug/net7.0/DMC.pdb
+/Users/rohitsharma/RiderProjects/DMC/DMC/obj/Debug/net7.0/DMC.genruntimeconfig.cache
+/Users/rohitsharma/RiderProjects/DMC/DMC/obj/Debug/net7.0/ref/DMC.dll
